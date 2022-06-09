@@ -7,6 +7,7 @@ WHAT IS ROBOTHON?
 
 
 Documentation:
+
 [Quick Start Guide](https://drive.google.com/drive/folders/1paPVuRc2Pnds0aVcwwZPV5uXiFTofP2n?usp=sharing)
 
 [Equipment Used List](https://drive.google.com/drive/folders/1paPVuRc2Pnds0aVcwwZPV5uXiFTofP2n?usp=sharing)
