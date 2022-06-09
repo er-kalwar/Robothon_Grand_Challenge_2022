@@ -1,15 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import cv2 as cv
 import numpy as np
 from pyModbusTCP.client import ModbusClient
 
 
-# In[2]:
+
 
 
 conversion_factor_x = 0.26
